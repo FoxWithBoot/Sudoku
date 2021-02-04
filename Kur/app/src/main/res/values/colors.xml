@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorSplashScreen">#673AB7</color>
+    <color name="colorOrangeFox">#DE7936</color>
+    <color name="colorBrownFox">#522D14</color>
+    <color name="colorLightBrownFox">#A45928</color>
+    <color name="colorBlondeFox">#EFBC9A</color>
+    <color name="colorGreyFox">#BAA08E</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
